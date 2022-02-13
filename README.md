@@ -33,11 +33,7 @@
 
 **Ход исследования**
 Данные получаем из файлов:  
-`https://code.s3.yandex.net/datasets/calls.csv`  
-`https://code.s3.yandex.net/datasets/internet.csv`  
-`https://code.s3.yandex.net/datasets/messages.csv`  
-`https://code.s3.yandex.net/datasets/tariffs.csv`  
-`https://code.s3.yandex.net/datasets/users.csv`  
+Яндекс Практикума  
 
 О качестве данных ничего не известно. Поэтому понадобится обзор данных. 
 Таким образом, исследование пройдёт по следующим этапам:  
